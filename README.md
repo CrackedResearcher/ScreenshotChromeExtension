@@ -1,11 +1,14 @@
-Screenshot chrome extension
+#Screenshot chrome extension
 
 
 ```bash
 This chrome extension allows you to capture screenshots on your browser and uploads that image to my app (https://secur-esnap.web.app) so that you can edit it.
 ```
 
+```code
 Manifest version: 3
+```
+
 ---
 
 Tech stack used:
