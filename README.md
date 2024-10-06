@@ -6,6 +6,8 @@ This chrome extension allows you to capture screenshots on your browser and uplo
 ```
 
 Manifest version: 3
+---
+
 Tech stack used:
 - cloudflare workers for api
 - chrome web api for screenshot functionality 
