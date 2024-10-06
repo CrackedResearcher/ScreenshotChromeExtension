@@ -1,4 +1,4 @@
-#Screenshot chrome extension
+# Screenshot chrome extension
 
 
 ```bash
@@ -7,10 +7,11 @@ This chrome extension allows you to capture screenshots on your browser and uplo
 
 ```code
 Manifest version: 3
-```
 
 ---
 
 Tech stack used:
 - cloudflare workers for api
 - chrome web api for screenshot functionality 
+
+```
