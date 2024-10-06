@@ -1,0 +1,40 @@
+body {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  height: 199px;
+  width: 270px;
+  margin-bottom: 20px;
+}
+.main_container {
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.bannerLogo {
+  height: fit-content;
+  width: 87.4vw;
+  margin-bottom: 20px;
+}
+
+.panel {
+  height: 82.5vh;
+  background-color: rgb(37, 37, 37);
+  border-radius: 7px;
+  padding: 10px;
+}
+
+#capture-button {
+  font-family: "Mukta Malar", sans-serif;
+  background-color: rgb(76, 76, 253);
+  height: 40px;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  margin-top: 11px;
+  margin-bottom: 10px;
+}
+
+#capture-button:hover {
+  cursor: pointer;
+  background-color: rgb(61, 61, 254);
+}

@@ -1,0 +1,23 @@
+
+{
+  "name": "SecureSnap",
+  "version": "1.0",
+  "description": "Verefied financial snapshots for creators to help them build trust with their audience. Works on all payment sites.",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_icon": "images/SecureSnap8.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
